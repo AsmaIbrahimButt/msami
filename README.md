@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://github.com/thesami1"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Python+Django+Developer;Python+Backend+Engineer;Data+Scientist&center=true&width=500&height=50"></a>
 	
-### I'm a Python Developer, Teacher and Researcher!
+### I'm a Python Developer and Researcher!
 - 🌱 I’m currently expanding my knowledge in Data Science.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
@@ -57,8 +57,8 @@
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-samiullah-0032b022b"><img src="https://img.shields.io/badge/-Muhammad%20Samiullah-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:saadfareed632@gmail.com"><img src="https://img.shields.io/badge/-saadfareed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:itzsamiullah1@gmail.com"><img src="https://img.shields.io/badge/-itzsamiullah1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/thesamiullah1?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/-@thesamiullah1-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>
  
 <br>
