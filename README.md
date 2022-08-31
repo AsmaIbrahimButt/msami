@@ -33,6 +33,9 @@
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
+<td align='center' width="200">
+        <img src="https://logojinni.com/image/logos/c--4.svg">
+    </td>
  
 </tr>
  
