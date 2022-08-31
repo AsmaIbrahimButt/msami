@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Muhammad Samiullah👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/thesami1"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Django+Developer;Python+Backend+Engineer;Data+Scientist&center=true&width=500&height=50"></a>
+<a href="https://github.com/thesami1"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Python+Django+Developer;Python+Backend+Engineer;Data+Scientist&center=true&width=500&height=50"></a>
 	
  ## Bootcamp alert
 - [MLSA Job Hunting Bootcamp](https://github.com/saadfareed/MLSA-Job-Hunting-bootcamp) will started soon.
