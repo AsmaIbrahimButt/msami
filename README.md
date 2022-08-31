@@ -7,7 +7,7 @@
 	
  ## Bootcamp alert
 - [MLSA Job Hunting Bootcamp](https://github.com/thesami1/msami/) will started soon.
-<img align="right" alt="" src="certificate.jpeg" width="270" />
+<img align="right" alt="" src="certificate.jpeg" width="470" />
 	
 ## My Python Development Course 
 - [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
