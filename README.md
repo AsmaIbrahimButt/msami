@@ -50,7 +50,7 @@
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
 <td align='center'>
-        <img src="https://www.nicepng.com/png/detail/981-9813175_c-logo-c-programming-language-logo.png">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917">
     </td>
 </tr>
     
