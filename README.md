@@ -6,10 +6,9 @@
 <a href="https://github.com/thesami1"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Python+Django+Developer;Python+Backend+Engineer;Data+Scientist&center=true&width=500&height=50"></a>
 	
 ### I'm a Python Developer, Teacher and Researcher!
-- 🔭 I’m currently working as Backend Engineer @Turingcom.
-- 🌱 I’m currently expanding my knowledge in DevOps.
+- 🌱 I’m currently expanding my knowledge in Data Science.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students. Taught over more then 500 students.
+- 📢 Love to teach and inspire students.
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech boy/girl let's get connected  
  
