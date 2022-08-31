@@ -5,13 +5,6 @@
 <p align="center">
 <a href="https://github.com/thesami1"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Python+Django+Developer;Python+Backend+Engineer;Data+Scientist&center=true&width=500&height=50"></a>
 	
- ## Bootcamp alert
-- [MLSA Job Hunting Bootcamp](https://github.com/thesami1/msami/) will started soon.
-<img align="right" alt="" src="certificate.jpeg" width="470" />
-	
-## My Python Development Course 
-- [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
-
 ### I'm a Python Developer, Teacher and Researcher!
 - 🔭 I’m currently working as Backend Engineer @Turingcom.
 - 🌱 I’m currently expanding my knowledge in DevOps.
